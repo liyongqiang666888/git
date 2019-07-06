@@ -1,6 +1,3 @@
-we aaaaaaaaaaaaaaaaaaaa
-we bbbbbbbbbbbbbbbbbbbb:wq
-:acccccccccccccccccccc
-dddddddddddddddddddddddddddd
-
-ooooooooooooooooooooooooooooooooo
+We  are study version control system
+We call it git
+test
